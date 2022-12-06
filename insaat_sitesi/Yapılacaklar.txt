@@ -1,0 +1,12 @@
+Yapılacaklar
+
+1-) trigger
+1-) project-details htaccess yapılacak
+1-) sitemap.xml bakılacak
+1-) projects inner join kullanılacak
+1-) footer diğer sayfalara bakalım
+2-) Htaccess SEO link
+1-) Framework7 veya ionicframework kullanılacak ve index.php bakılacak
+5-) Htaccess
+6-) Cookies(Çerezler kabul et)
+7-) pages.php anasayfada gösterilsin yapılacak

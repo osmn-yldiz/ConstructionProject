@@ -1,0 +1,13 @@
+RewriteEngine on
+
+#order deny,allow
+#deny from 192.168.0.1
+
+RewriteRule anasayfa index.php
+RewriteRule sayfa/([^/]*)/([^/]*) pages.php?SeoName=$2
+RewriteRule sitemap.xml sitemap.php
+RewriteRule ^projelerimiz$ projects-categories.php
+RewriteRule ^projelerimiz/([^/]*)$ projects.php?SeoName=$1
+RewriteRule projelerimiz/([^/]*)/sayfa/([^/]*) projects.php?SeoName=$1&page=$2
+RewriteRule projelerimiz/([^/]*)/([^/]*) projects-details.php?SeoName=$2
+RewriteRule iletisim.html contact.php

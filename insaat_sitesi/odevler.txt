@@ -1,0 +1,4 @@
+ödevler
+
+1-) admin panel PlaCard ve PlaCardCategories oluştur
+2-) 

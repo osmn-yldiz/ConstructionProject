@@ -1,0 +1,1 @@
+<?php print "Bu kod çalışmasın"; ?>
